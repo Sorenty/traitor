@@ -1,1 +1,5 @@
-new commit 3 new
+<<<<<<< HEAD
+new commit3 new
+=======
+new commit3 new
+>>>>>>> branch1
